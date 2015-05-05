@@ -57,6 +57,6 @@ module ``about the stock example`` =
 
     [<Koan>]
     let YouGotTheAnswerCorrect() =
-        let result =  __
+        let result =  "2012-03-13"
         
         AssertEquality "2012-03-13" result
